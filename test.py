@@ -5,3 +5,5 @@ if hungry=="yes":
  print("eat samosa")
 else:
  print("do homework")
+else:
+ print("do work")
